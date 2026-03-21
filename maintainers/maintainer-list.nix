@@ -13723,6 +13723,13 @@
     githubId = 15855440;
     name = "Keanu Ashwell";
   };
+  kaso = {
+    name = "Kasanwa-Solane Aster-Hope";
+    github = "kasanwa-solane";
+    githubId = 22383398;
+    email = "ka_so@octofriends.garden";
+    matrix = "@ka_so:octofriends.garden";
+  };
   katanallama = {
     github = "katanallama";
     githubId = 70604257;
