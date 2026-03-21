@@ -14010,6 +14010,13 @@
     githubId = 73264146;
     email = "ardit.abrashi03@gmail.com";
   };
+  kaso = {
+    name = "Kasanwa-Solane Aster-Hope";
+    github = "kasanwa-solane";
+    githubId = 22383398;
+    email = "ka_so@octofriends.garden";
+    matrix = "@ka_so:octofriends.garden";
+  };
   katanallama = {
     github = "katanallama";
     githubId = 70604257;
