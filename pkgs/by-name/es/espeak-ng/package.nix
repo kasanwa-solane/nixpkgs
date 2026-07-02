@@ -1,7 +1,7 @@
 {
   stdenv,
   lib,
-  fetchFromGitHub,
+  fetchFromForgejo,
   fetchpatch,
   replaceVars,
 
