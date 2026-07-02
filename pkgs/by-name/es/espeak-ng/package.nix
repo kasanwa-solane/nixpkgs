@@ -34,10 +34,11 @@
 let
   version = "1.52.0.1-unstable-2025-09-09";
 
-  src = fetchFromGitHub {
-    owner = "espeak-ng";
+  src = fetchFromForgejo {
+    domain = "git.octofriends.garden";
+    owner = "ka_so";
     repo = "espeak-ng";
-    rev = "0d451f8c1c6ae837418b823bd9c4cbc574ea9ff5";
+    rev = "6d400c153b28b7ace97e1461dc9ad6d7941ec2f6";
     hash = "sha256-wpPi+YjSLhsEWfE3KEbL4A7o48qtz9fLRZ/u4xGOM2g=";
   };
 
